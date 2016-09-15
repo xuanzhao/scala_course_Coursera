@@ -1,0 +1,7 @@
+test
+import org.scalacheck.Prop.forAll
+scala -cp scalacheck.jar
+compile
+console
+test
+submit xuanzhao89@gmail.com DDi588fXIjI3gQfh
